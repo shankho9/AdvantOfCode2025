@@ -1,0 +1,3 @@
+# Python dependencies for AdvantOfCode2025
+# Add your project dependencies here
+
